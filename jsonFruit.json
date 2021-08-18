@@ -1,0 +1,14 @@
+{" Fruits":[
+{"Id":"1", "fruit": "Apple" },
+{"Id":2, "fruit": "Tangerine" },
+{"Id":3, "fruit": "Peach" },
+{"Id":4, "fruit": "Strawberry" },
+{"Id":5, "fruit": "Watermelon" },
+{"Id":6, "fruit": "Grape" },
+{"Id":7, "fruit": "Lemon" },
+{"Id":8, "fruit": "Orange" },
+{"Id":9, "fruit": "Banana" },
+{"Id":10, "fruit": "Cucumber" },
+{"Id":11, "fruit": "Mango" },
+{"Id":12, "fruit": "Guava" }
+]}  
